@@ -9,7 +9,7 @@ public class ATMWithdrawal {
         Scanner sc = new Scanner(System.in);
 
         // Inheritance + polymorphism: Account reference holds a SavingsAccount object
-        Account account = new SavingsAccount("Aaryan", "1234567890", 2806, 10000);
+        Account account = new SavingsAccount("Pushkal", "1234567890", 1234, 10000);
 
         System.out.println("== ATM MACHINE ==");
 
